@@ -1,0 +1,13 @@
+{
+    "auto_balance": false,
+    "auto_restart": null,
+    "concurrency": 0,
+    "dependencies": "log,mqtt,clearblade",
+    "execution_timeout": -1,
+    "logging_enabled": false,
+    "name": "processChirpstackMessages",
+    "params": [
+        ""
+    ],
+    "run_user": ""
+}
